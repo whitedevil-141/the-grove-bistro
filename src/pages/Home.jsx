@@ -299,7 +299,7 @@ export default function Home() {
             transition={{ delay: 0.5, duration: 0.6 }}
             className="text-center mt-12"
           >
-            <Button variant="outline-white" href="/menu">
+            <Button variant="outline-white" href="/the-grove-bistro/menu">
               View Full Menu
             </Button>
           </motion.div>
